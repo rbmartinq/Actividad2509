@@ -57,6 +57,7 @@
 			<td><a href="ordenar.html" target="_blank">Clic para ver ejemplo</a></td>
 		</tr>
 	</table>
+		<center><h1>INTRODUCCIÓN A LA PROGRAMACIÓN ORIENTADA A OBJETOS</h1></center>
 	<img src="img/1.jpg">
 	</center>
 </body>

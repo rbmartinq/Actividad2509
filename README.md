@@ -58,20 +58,20 @@
 		</tr>
 	</table>
 		<center><h1>INTRODUCCIÓN A LA PROGRAMACIÓN ORIENTADA A OBJETOS</h1></center>
-		<ol>
+		<ol type="1">
 		  <li>POO
 			<ol type ="a">
-				<li>Clase: </li>
-				<li>Objeto: </li>
-				<li>¿Qué significa instanciar una clase?</li>
+				<li>Clase: Define de manera genérica cómo van a ser los objetos de determinado tipo.</li>
+				<li>Objeto:aglutinan toda la funcionalidad relacionada con ellos. </li>
+				<li>¿Qué significa instanciar una clase? Consiste en crear un nuevo objeto concreto de la misma. Es decir, un objeto es ya una entidad concreta que se crea a partir de la plantilla que es la clase. </li>
 			</ol>
 		  </li>
 		  <li>Los cuatro pilares de la programación orientada a objetos
 			<ol type ="a">
-				<li>Encapsulamiento: </li>
-				<li>Abstracción: </li>
-				<li>Herencia</li>
-				<li>Polimorfismo</li>
+				<li>Encapsulamiento:permite que todo lo referente a un objeto quede aislado dentro de éste. </li>
+				<li>Abstracción: el principio de abstracción lo que implica es que la clase debe representar las características de la entidad hacia el mundo exterior, pero ocultando la complejidad que llevan aparejada</li>
+				<li>Herencia: cuando una clase hereda de otra obtiene todos los rasgos que tuviese la primera</li>
+				<li>Polimorfismo: se refiere al hecho de que varios objetos de diferentes clases, pero con una base común, se pueden usar de manera indistinta, sin tener que saber de qué clase exacta son para poder hacerlo.</li>
 			</ol>
 		  </li>
 		</ol>

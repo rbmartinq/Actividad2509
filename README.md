@@ -58,6 +58,23 @@
 		</tr>
 	</table>
 		<center><h1>INTRODUCCIÓN A LA PROGRAMACIÓN ORIENTADA A OBJETOS</h1></center>
+		<ol>
+		  <li>POO
+			<ol type ="a">
+				<li>Clase: </li>
+				<li>Objeto: </li>
+				<li>¿Qué significa instanciar una clase?</li>
+			</ol>
+		  </li>
+		  <li>Los cuatro pilares de la programación orientada a objetos
+			<ol type ="a">
+				<li>Encapsulamiento: </li>
+				<li>Abstracción: </li>
+				<li>Herencia</li>
+				<li>Polimorfismo</li>
+			</ol>
+		  </li>
+		</ol>
 	<img src="img/1.jpg">
 	</center>
 </body>

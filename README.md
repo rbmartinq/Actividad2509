@@ -56,6 +56,11 @@
 			<td>Ordenar de forma ascendente y descendente 20 valores numéricos almacenados en un array</td>
 			<td><a href="ordenar.html" target="_blank">Clic para ver ejemplo</a></td>
 		</tr>
+		<tr>
+			<td>7.</td>
+			<td>Ejemplo POO - Números pares e Impares</td>
+			<td><a href="poo.html" target="_blank">Clic para ver ejemplo</a></td>
+		</tr>
 	</table>
 		<center><h1>INTRODUCCIÓN A LA PROGRAMACIÓN ORIENTADA A OBJETOS</h1></center>
 		<ol type="1">
@@ -75,6 +80,10 @@
 			</ol>
 		  </li>
 		</ol>
+<<<<<<< HEAD
+
+=======
+>>>>>>> 50b4d76b80c8273e4fc212a99db19f7acb25fb8e
 	<img src="img/1.jpg">
 	</center>
 </body>

@@ -80,10 +80,6 @@
 			</ol>
 		  </li>
 		</ol>
-<<<<<<< HEAD
-
-=======
->>>>>>> 50b4d76b80c8273e4fc212a99db19f7acb25fb8e
 	<img src="img/1.jpg">
 	</center>
 </body>
